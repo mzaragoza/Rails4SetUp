@@ -1,0 +1,571 @@
+# Logfile created on 2013-11-25 03:21:04 -0500 by logger.rb/36483
+[11/25/13 03:21:04 -0500 skynet.local (67748)] INFO : Starting the New Relic agent in "development" environment.
+[11/25/13 03:21:04 -0500 skynet.local (67748)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/25/13 03:21:04 -0500 skynet.local (67748)] INFO : Reading configuration from config/newrelic.yml
+[11/25/13 03:21:04 -0500 skynet.local (67748)] INFO : New Relic Agent Developer Mode enabled.
+[11/25/13 03:21:04 -0500 skynet.local (67748)] INFO : Enabling the Request Sampler.
+[11/25/13 03:21:04 -0500 skynet.local (67748)] INFO : Enabling the Request Sampler.
+[11/25/13 03:21:04 -0500 skynet.local (67748)] ERROR : No application name configured.
+[11/25/13 03:21:04 -0500 skynet.local (67748)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/25/13 03:21:04 -0500 skynet.local (67748)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/25/13 03:21:04 -0500 skynet.local (67748)] ERROR : value set for app_name in the development 
+[11/25/13 03:21:04 -0500 skynet.local (67748)] ERROR : environment.
+[11/25/13 03:21:04 -0500 skynet.local (67748)] INFO : Installing ActiveRecord 4 instrumentation
+[11/25/13 03:21:04 -0500 skynet.local (67748)] INFO : Installing Net instrumentation
+[11/25/13 03:21:04 -0500 skynet.local (67748)] INFO : Installing deferred Rack instrumentation
+[11/25/13 03:21:04 -0500 skynet.local (67748)] INFO : Installing Rails 4 Controller instrumentation
+[11/25/13 03:21:05 -0500 skynet.local (67748)] INFO : Installing Rails 4 view instrumentation
+[11/25/13 03:21:05 -0500 skynet.local (67748)] INFO : Installing Rails4 Error instrumentation
+[11/25/13 03:21:05 -0500 skynet.local (67748)] INFO : Finished instrumentation
+[11/25/13 03:21:05 -0500 skynet.local (67748)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 01:39:39 -0500 skynet.local (50282)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 01:39:39 -0500 skynet.local (50282)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 01:39:39 -0500 skynet.local (50282)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 01:39:39 -0500 skynet.local (50282)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 01:39:39 -0500 skynet.local (50282)] INFO : Enabling the Request Sampler.
+[11/29/13 01:39:39 -0500 skynet.local (50282)] INFO : Enabling the Request Sampler.
+[11/29/13 01:39:39 -0500 skynet.local (50282)] ERROR : No application name configured.
+[11/29/13 01:39:39 -0500 skynet.local (50282)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 01:39:39 -0500 skynet.local (50282)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 01:39:39 -0500 skynet.local (50282)] ERROR : value set for app_name in the development 
+[11/29/13 01:39:39 -0500 skynet.local (50282)] ERROR : environment.
+[11/29/13 01:39:39 -0500 skynet.local (50282)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 01:39:39 -0500 skynet.local (50282)] INFO : Installing Net instrumentation
+[11/29/13 01:39:39 -0500 skynet.local (50282)] INFO : Installing deferred Rack instrumentation
+[11/29/13 01:39:39 -0500 skynet.local (50282)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 01:39:40 -0500 skynet.local (50282)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 01:39:40 -0500 skynet.local (50282)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 01:39:40 -0500 skynet.local (50282)] INFO : Finished instrumentation
+[11/29/13 01:39:41 -0500 skynet.local (50282)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 01:40:49 -0500 skynet.local (50464)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 01:40:49 -0500 skynet.local (50464)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 01:40:49 -0500 skynet.local (50464)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 01:40:49 -0500 skynet.local (50464)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 01:40:49 -0500 skynet.local (50464)] INFO : Enabling the Request Sampler.
+[11/29/13 01:40:49 -0500 skynet.local (50464)] INFO : Enabling the Request Sampler.
+[11/29/13 01:40:49 -0500 skynet.local (50464)] ERROR : No application name configured.
+[11/29/13 01:40:49 -0500 skynet.local (50464)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 01:40:49 -0500 skynet.local (50464)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 01:40:49 -0500 skynet.local (50464)] ERROR : value set for app_name in the development 
+[11/29/13 01:40:49 -0500 skynet.local (50464)] ERROR : environment.
+[11/29/13 01:40:49 -0500 skynet.local (50464)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 01:40:49 -0500 skynet.local (50464)] INFO : Installing Net instrumentation
+[11/29/13 01:40:49 -0500 skynet.local (50464)] INFO : Installing deferred Rack instrumentation
+[11/29/13 01:40:49 -0500 skynet.local (50464)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 01:40:49 -0500 skynet.local (50464)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 01:40:49 -0500 skynet.local (50464)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 01:40:49 -0500 skynet.local (50464)] INFO : Finished instrumentation
+[11/29/13 01:40:51 -0500 skynet.local (50464)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 01:48:09 -0500 skynet.local (50743)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 01:48:09 -0500 skynet.local (50743)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 01:48:09 -0500 skynet.local (50743)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 01:48:09 -0500 skynet.local (50743)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 01:48:09 -0500 skynet.local (50743)] INFO : Enabling the Request Sampler.
+[11/29/13 01:48:09 -0500 skynet.local (50743)] INFO : Enabling the Request Sampler.
+[11/29/13 01:48:09 -0500 skynet.local (50743)] ERROR : No application name configured.
+[11/29/13 01:48:09 -0500 skynet.local (50743)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 01:48:09 -0500 skynet.local (50743)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 01:48:09 -0500 skynet.local (50743)] ERROR : value set for app_name in the development 
+[11/29/13 01:48:09 -0500 skynet.local (50743)] ERROR : environment.
+[11/29/13 01:48:09 -0500 skynet.local (50743)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 01:48:09 -0500 skynet.local (50743)] INFO : Installing Net instrumentation
+[11/29/13 01:48:09 -0500 skynet.local (50743)] INFO : Installing deferred Rack instrumentation
+[11/29/13 01:48:09 -0500 skynet.local (50743)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 01:48:09 -0500 skynet.local (50743)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 01:48:09 -0500 skynet.local (50743)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 01:48:09 -0500 skynet.local (50743)] INFO : Finished instrumentation
+[11/29/13 01:48:10 -0500 skynet.local (50743)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 01:50:09 -0500 skynet.local (50790)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 01:50:09 -0500 skynet.local (50790)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 01:50:09 -0500 skynet.local (50790)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 01:50:09 -0500 skynet.local (50790)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 01:50:09 -0500 skynet.local (50790)] INFO : Enabling the Request Sampler.
+[11/29/13 01:50:09 -0500 skynet.local (50790)] INFO : Enabling the Request Sampler.
+[11/29/13 01:50:09 -0500 skynet.local (50790)] ERROR : No application name configured.
+[11/29/13 01:50:09 -0500 skynet.local (50790)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 01:50:09 -0500 skynet.local (50790)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 01:50:09 -0500 skynet.local (50790)] ERROR : value set for app_name in the development 
+[11/29/13 01:50:09 -0500 skynet.local (50790)] ERROR : environment.
+[11/29/13 01:50:09 -0500 skynet.local (50790)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 01:50:09 -0500 skynet.local (50790)] INFO : Installing Net instrumentation
+[11/29/13 01:50:09 -0500 skynet.local (50790)] INFO : Installing deferred Rack instrumentation
+[11/29/13 01:50:09 -0500 skynet.local (50790)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 01:50:09 -0500 skynet.local (50790)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 01:50:09 -0500 skynet.local (50790)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 01:50:09 -0500 skynet.local (50790)] INFO : Finished instrumentation
+[11/29/13 01:50:11 -0500 skynet.local (50790)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 01:52:42 -0500 skynet.local (50846)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 01:52:42 -0500 skynet.local (50846)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 01:52:42 -0500 skynet.local (50846)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 01:52:42 -0500 skynet.local (50846)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 01:52:42 -0500 skynet.local (50846)] INFO : Enabling the Request Sampler.
+[11/29/13 01:52:42 -0500 skynet.local (50846)] INFO : Enabling the Request Sampler.
+[11/29/13 01:52:42 -0500 skynet.local (50846)] ERROR : No application name configured.
+[11/29/13 01:52:42 -0500 skynet.local (50846)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 01:52:42 -0500 skynet.local (50846)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 01:52:42 -0500 skynet.local (50846)] ERROR : value set for app_name in the development 
+[11/29/13 01:52:42 -0500 skynet.local (50846)] ERROR : environment.
+[11/29/13 01:52:42 -0500 skynet.local (50846)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 01:52:42 -0500 skynet.local (50846)] INFO : Installing Net instrumentation
+[11/29/13 01:52:42 -0500 skynet.local (50846)] INFO : Installing deferred Rack instrumentation
+[11/29/13 01:52:42 -0500 skynet.local (50846)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 01:52:42 -0500 skynet.local (50846)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 01:52:42 -0500 skynet.local (50846)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 01:52:42 -0500 skynet.local (50846)] INFO : Finished instrumentation
+[11/29/13 01:52:44 -0500 skynet.local (50846)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 01:54:16 -0500 skynet.local (50884)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 01:54:16 -0500 skynet.local (50884)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 01:54:16 -0500 skynet.local (50884)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 01:54:16 -0500 skynet.local (50884)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 01:54:16 -0500 skynet.local (50884)] INFO : Enabling the Request Sampler.
+[11/29/13 01:54:16 -0500 skynet.local (50884)] INFO : Enabling the Request Sampler.
+[11/29/13 01:54:16 -0500 skynet.local (50884)] ERROR : No application name configured.
+[11/29/13 01:54:16 -0500 skynet.local (50884)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 01:54:16 -0500 skynet.local (50884)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 01:54:16 -0500 skynet.local (50884)] ERROR : value set for app_name in the development 
+[11/29/13 01:54:16 -0500 skynet.local (50884)] ERROR : environment.
+[11/29/13 01:54:16 -0500 skynet.local (50884)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 01:54:16 -0500 skynet.local (50884)] INFO : Installing Net instrumentation
+[11/29/13 01:54:16 -0500 skynet.local (50884)] INFO : Installing deferred Rack instrumentation
+[11/29/13 01:54:16 -0500 skynet.local (50884)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 01:54:16 -0500 skynet.local (50884)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 01:54:16 -0500 skynet.local (50884)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 01:54:16 -0500 skynet.local (50884)] INFO : Finished instrumentation
+[11/29/13 01:54:18 -0500 skynet.local (50884)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 01:57:42 -0500 skynet.local (50972)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 01:57:42 -0500 skynet.local (50972)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 01:57:42 -0500 skynet.local (50972)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 01:57:42 -0500 skynet.local (50972)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 01:57:42 -0500 skynet.local (50972)] INFO : Enabling the Request Sampler.
+[11/29/13 01:57:42 -0500 skynet.local (50972)] INFO : Enabling the Request Sampler.
+[11/29/13 01:57:42 -0500 skynet.local (50972)] ERROR : No application name configured.
+[11/29/13 01:57:42 -0500 skynet.local (50972)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 01:57:42 -0500 skynet.local (50972)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 01:57:42 -0500 skynet.local (50972)] ERROR : value set for app_name in the development 
+[11/29/13 01:57:42 -0500 skynet.local (50972)] ERROR : environment.
+[11/29/13 01:57:42 -0500 skynet.local (50972)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 01:57:42 -0500 skynet.local (50972)] INFO : Installing Net instrumentation
+[11/29/13 01:57:42 -0500 skynet.local (50972)] INFO : Installing deferred Rack instrumentation
+[11/29/13 01:57:42 -0500 skynet.local (50972)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 01:57:42 -0500 skynet.local (50972)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 01:57:42 -0500 skynet.local (50972)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 01:57:42 -0500 skynet.local (50972)] INFO : Finished instrumentation
+[11/29/13 01:57:44 -0500 skynet.local (50972)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 02:12:49 -0500 skynet.local (51776)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 02:12:49 -0500 skynet.local (51776)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 02:12:49 -0500 skynet.local (51776)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 02:12:49 -0500 skynet.local (51776)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 02:12:49 -0500 skynet.local (51776)] INFO : Enabling the Request Sampler.
+[11/29/13 02:12:49 -0500 skynet.local (51776)] INFO : Enabling the Request Sampler.
+[11/29/13 02:12:49 -0500 skynet.local (51776)] ERROR : No application name configured.
+[11/29/13 02:12:49 -0500 skynet.local (51776)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 02:12:49 -0500 skynet.local (51776)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 02:12:49 -0500 skynet.local (51776)] ERROR : value set for app_name in the development 
+[11/29/13 02:12:49 -0500 skynet.local (51776)] ERROR : environment.
+[11/29/13 02:12:50 -0500 skynet.local (51776)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 02:12:50 -0500 skynet.local (51776)] INFO : Installing Net instrumentation
+[11/29/13 02:12:50 -0500 skynet.local (51776)] INFO : Installing deferred Rack instrumentation
+[11/29/13 02:12:50 -0500 skynet.local (51776)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 02:12:50 -0500 skynet.local (51776)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 02:12:50 -0500 skynet.local (51776)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 02:12:50 -0500 skynet.local (51776)] INFO : Finished instrumentation
+[11/29/13 02:12:50 -0500 skynet.local (51776)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 02:17:18 -0500 skynet.local (52320)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 02:17:18 -0500 skynet.local (52320)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 02:17:18 -0500 skynet.local (52320)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 02:17:18 -0500 skynet.local (52320)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 02:17:18 -0500 skynet.local (52320)] INFO : Enabling the Request Sampler.
+[11/29/13 02:17:18 -0500 skynet.local (52320)] INFO : Enabling the Request Sampler.
+[11/29/13 02:17:18 -0500 skynet.local (52320)] ERROR : No application name configured.
+[11/29/13 02:17:18 -0500 skynet.local (52320)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 02:17:18 -0500 skynet.local (52320)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 02:17:18 -0500 skynet.local (52320)] ERROR : value set for app_name in the development 
+[11/29/13 02:17:18 -0500 skynet.local (52320)] ERROR : environment.
+[11/29/13 02:17:18 -0500 skynet.local (52320)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 02:17:18 -0500 skynet.local (52320)] INFO : Installing Net instrumentation
+[11/29/13 02:17:18 -0500 skynet.local (52320)] INFO : Installing deferred Rack instrumentation
+[11/29/13 02:17:18 -0500 skynet.local (52320)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 02:17:19 -0500 skynet.local (52320)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 02:17:19 -0500 skynet.local (52320)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 02:17:19 -0500 skynet.local (52320)] INFO : Finished instrumentation
+[11/29/13 02:17:19 -0500 skynet.local (52320)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 02:24:09 -0500 skynet.local (52570)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 02:24:09 -0500 skynet.local (52570)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 02:24:09 -0500 skynet.local (52570)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 02:24:09 -0500 skynet.local (52570)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 02:24:09 -0500 skynet.local (52570)] INFO : Enabling the Request Sampler.
+[11/29/13 02:24:09 -0500 skynet.local (52570)] INFO : Enabling the Request Sampler.
+[11/29/13 02:24:09 -0500 skynet.local (52570)] ERROR : No application name configured.
+[11/29/13 02:24:09 -0500 skynet.local (52570)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 02:24:09 -0500 skynet.local (52570)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 02:24:09 -0500 skynet.local (52570)] ERROR : value set for app_name in the development 
+[11/29/13 02:24:09 -0500 skynet.local (52570)] ERROR : environment.
+[11/29/13 02:24:09 -0500 skynet.local (52570)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 02:24:09 -0500 skynet.local (52570)] INFO : Installing Net instrumentation
+[11/29/13 02:24:09 -0500 skynet.local (52570)] INFO : Installing deferred Rack instrumentation
+[11/29/13 02:24:09 -0500 skynet.local (52570)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 02:24:09 -0500 skynet.local (52570)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 02:24:09 -0500 skynet.local (52570)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 02:24:09 -0500 skynet.local (52570)] INFO : Finished instrumentation
+[11/29/13 02:24:10 -0500 skynet.local (52570)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 02:39:24 -0500 skynet.local (52937)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 02:39:24 -0500 skynet.local (52937)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 02:39:24 -0500 skynet.local (52937)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 02:39:24 -0500 skynet.local (52937)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 02:39:24 -0500 skynet.local (52937)] INFO : Enabling the Request Sampler.
+[11/29/13 02:39:24 -0500 skynet.local (52937)] INFO : Enabling the Request Sampler.
+[11/29/13 02:39:24 -0500 skynet.local (52937)] ERROR : No application name configured.
+[11/29/13 02:39:24 -0500 skynet.local (52937)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 02:39:24 -0500 skynet.local (52937)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 02:39:24 -0500 skynet.local (52937)] ERROR : value set for app_name in the development 
+[11/29/13 02:39:24 -0500 skynet.local (52937)] ERROR : environment.
+[11/29/13 02:39:24 -0500 skynet.local (52937)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 02:39:24 -0500 skynet.local (52937)] INFO : Installing Net instrumentation
+[11/29/13 02:39:24 -0500 skynet.local (52937)] INFO : Installing deferred Rack instrumentation
+[11/29/13 02:39:24 -0500 skynet.local (52937)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 02:39:24 -0500 skynet.local (52937)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 02:39:24 -0500 skynet.local (52937)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 02:39:24 -0500 skynet.local (52937)] INFO : Finished instrumentation
+[11/29/13 02:39:25 -0500 skynet.local (52937)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 12:32:16 -0500 skynet.local (60191)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 12:32:16 -0500 skynet.local (60191)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 12:32:16 -0500 skynet.local (60191)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 12:32:16 -0500 skynet.local (60191)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 12:32:16 -0500 skynet.local (60191)] INFO : Enabling the Request Sampler.
+[11/29/13 12:32:16 -0500 skynet.local (60191)] INFO : Enabling the Request Sampler.
+[11/29/13 12:32:16 -0500 skynet.local (60191)] ERROR : No application name configured.
+[11/29/13 12:32:16 -0500 skynet.local (60191)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 12:32:16 -0500 skynet.local (60191)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 12:32:16 -0500 skynet.local (60191)] ERROR : value set for app_name in the development 
+[11/29/13 12:32:16 -0500 skynet.local (60191)] ERROR : environment.
+[11/29/13 12:32:16 -0500 skynet.local (60191)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 12:32:16 -0500 skynet.local (60191)] INFO : Installing Net instrumentation
+[11/29/13 12:32:16 -0500 skynet.local (60191)] INFO : Installing deferred Rack instrumentation
+[11/29/13 12:32:16 -0500 skynet.local (60191)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 12:32:17 -0500 skynet.local (60191)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 12:32:17 -0500 skynet.local (60191)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 12:32:17 -0500 skynet.local (60191)] INFO : Finished instrumentation
+[11/29/13 12:32:17 -0500 skynet.local (60191)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 14:06:33 -0500 skynet.local (62247)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 14:06:33 -0500 skynet.local (62247)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 14:06:33 -0500 skynet.local (62247)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 14:06:33 -0500 skynet.local (62247)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 14:06:33 -0500 skynet.local (62247)] INFO : Enabling the Request Sampler.
+[11/29/13 14:06:33 -0500 skynet.local (62247)] INFO : Enabling the Request Sampler.
+[11/29/13 14:06:33 -0500 skynet.local (62247)] ERROR : No application name configured.
+[11/29/13 14:06:33 -0500 skynet.local (62247)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 14:06:33 -0500 skynet.local (62247)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 14:06:33 -0500 skynet.local (62247)] ERROR : value set for app_name in the development 
+[11/29/13 14:06:33 -0500 skynet.local (62247)] ERROR : environment.
+[11/29/13 14:06:33 -0500 skynet.local (62247)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 14:06:33 -0500 skynet.local (62247)] INFO : Installing Net instrumentation
+[11/29/13 14:06:33 -0500 skynet.local (62247)] INFO : Installing deferred Rack instrumentation
+[11/29/13 14:06:33 -0500 skynet.local (62247)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 14:06:33 -0500 skynet.local (62247)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 14:06:33 -0500 skynet.local (62247)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 14:06:33 -0500 skynet.local (62247)] INFO : Finished instrumentation
+[11/29/13 14:06:33 -0500 skynet.local (62247)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 14:18:55 -0500 skynet.local (62820)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 14:18:55 -0500 skynet.local (62820)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 14:18:55 -0500 skynet.local (62820)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 14:18:55 -0500 skynet.local (62820)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 14:18:55 -0500 skynet.local (62820)] INFO : Enabling the Request Sampler.
+[11/29/13 14:18:55 -0500 skynet.local (62820)] INFO : Enabling the Request Sampler.
+[11/29/13 14:18:55 -0500 skynet.local (62820)] ERROR : No application name configured.
+[11/29/13 14:18:55 -0500 skynet.local (62820)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 14:18:55 -0500 skynet.local (62820)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 14:18:55 -0500 skynet.local (62820)] ERROR : value set for app_name in the development 
+[11/29/13 14:18:55 -0500 skynet.local (62820)] ERROR : environment.
+[11/29/13 14:18:55 -0500 skynet.local (62820)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 14:18:55 -0500 skynet.local (62820)] INFO : Installing Net instrumentation
+[11/29/13 14:18:55 -0500 skynet.local (62820)] INFO : Installing deferred Rack instrumentation
+[11/29/13 14:18:55 -0500 skynet.local (62820)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 14:18:55 -0500 skynet.local (62820)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 14:18:55 -0500 skynet.local (62820)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 14:18:55 -0500 skynet.local (62820)] INFO : Finished instrumentation
+[11/29/13 14:18:56 -0500 skynet.local (62820)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 14:20:02 -0500 skynet.local (62858)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 14:20:02 -0500 skynet.local (62858)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 14:20:02 -0500 skynet.local (62858)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 14:20:02 -0500 skynet.local (62858)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 14:20:02 -0500 skynet.local (62858)] INFO : Enabling the Request Sampler.
+[11/29/13 14:20:02 -0500 skynet.local (62858)] INFO : Enabling the Request Sampler.
+[11/29/13 14:20:02 -0500 skynet.local (62858)] ERROR : No application name configured.
+[11/29/13 14:20:02 -0500 skynet.local (62858)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 14:20:02 -0500 skynet.local (62858)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 14:20:02 -0500 skynet.local (62858)] ERROR : value set for app_name in the development 
+[11/29/13 14:20:02 -0500 skynet.local (62858)] ERROR : environment.
+[11/29/13 14:20:02 -0500 skynet.local (62858)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 14:20:02 -0500 skynet.local (62858)] INFO : Installing Net instrumentation
+[11/29/13 14:20:02 -0500 skynet.local (62858)] INFO : Installing deferred Rack instrumentation
+[11/29/13 14:20:02 -0500 skynet.local (62858)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 14:20:02 -0500 skynet.local (62858)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 14:20:02 -0500 skynet.local (62858)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 14:20:02 -0500 skynet.local (62858)] INFO : Finished instrumentation
+[11/29/13 14:20:02 -0500 skynet.local (62858)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 14:21:05 -0500 skynet.local (62908)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 14:21:05 -0500 skynet.local (62908)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 14:21:05 -0500 skynet.local (62908)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 14:21:05 -0500 skynet.local (62908)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 14:21:05 -0500 skynet.local (62908)] INFO : Enabling the Request Sampler.
+[11/29/13 14:21:05 -0500 skynet.local (62908)] INFO : Enabling the Request Sampler.
+[11/29/13 14:21:05 -0500 skynet.local (62908)] ERROR : No application name configured.
+[11/29/13 14:21:05 -0500 skynet.local (62908)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 14:21:05 -0500 skynet.local (62908)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 14:21:05 -0500 skynet.local (62908)] ERROR : value set for app_name in the development 
+[11/29/13 14:21:05 -0500 skynet.local (62908)] ERROR : environment.
+[11/29/13 14:21:05 -0500 skynet.local (62908)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 14:21:05 -0500 skynet.local (62908)] INFO : Installing Net instrumentation
+[11/29/13 14:21:05 -0500 skynet.local (62908)] INFO : Installing deferred Rack instrumentation
+[11/29/13 14:21:05 -0500 skynet.local (62908)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 14:21:05 -0500 skynet.local (62908)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 14:21:05 -0500 skynet.local (62908)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 14:21:05 -0500 skynet.local (62908)] INFO : Finished instrumentation
+[11/29/13 14:21:05 -0500 skynet.local (62908)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 14:26:48 -0500 skynet.local (63058)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 14:26:48 -0500 skynet.local (63058)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 14:26:48 -0500 skynet.local (63058)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 14:26:48 -0500 skynet.local (63058)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 14:26:48 -0500 skynet.local (63058)] INFO : Enabling the Request Sampler.
+[11/29/13 14:26:48 -0500 skynet.local (63058)] INFO : Enabling the Request Sampler.
+[11/29/13 14:26:48 -0500 skynet.local (63058)] ERROR : No application name configured.
+[11/29/13 14:26:48 -0500 skynet.local (63058)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 14:26:48 -0500 skynet.local (63058)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 14:26:48 -0500 skynet.local (63058)] ERROR : value set for app_name in the development 
+[11/29/13 14:26:48 -0500 skynet.local (63058)] ERROR : environment.
+[11/29/13 14:26:48 -0500 skynet.local (63058)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 14:26:48 -0500 skynet.local (63058)] INFO : Installing Net instrumentation
+[11/29/13 14:26:48 -0500 skynet.local (63058)] INFO : Installing deferred Rack instrumentation
+[11/29/13 14:26:48 -0500 skynet.local (63058)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 14:26:48 -0500 skynet.local (63058)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 14:26:48 -0500 skynet.local (63058)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 14:26:48 -0500 skynet.local (63058)] INFO : Finished instrumentation
+[11/29/13 14:26:48 -0500 skynet.local (63058)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 14:28:48 -0500 skynet.local (63105)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 14:28:48 -0500 skynet.local (63105)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 14:28:48 -0500 skynet.local (63105)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 14:28:48 -0500 skynet.local (63105)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 14:28:48 -0500 skynet.local (63105)] INFO : Enabling the Request Sampler.
+[11/29/13 14:28:48 -0500 skynet.local (63105)] INFO : Enabling the Request Sampler.
+[11/29/13 14:28:48 -0500 skynet.local (63105)] ERROR : No application name configured.
+[11/29/13 14:28:48 -0500 skynet.local (63105)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 14:28:48 -0500 skynet.local (63105)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 14:28:48 -0500 skynet.local (63105)] ERROR : value set for app_name in the development 
+[11/29/13 14:28:48 -0500 skynet.local (63105)] ERROR : environment.
+[11/29/13 14:28:48 -0500 skynet.local (63105)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 14:28:48 -0500 skynet.local (63105)] INFO : Installing Net instrumentation
+[11/29/13 14:28:48 -0500 skynet.local (63105)] INFO : Installing deferred Rack instrumentation
+[11/29/13 14:28:48 -0500 skynet.local (63105)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 14:28:48 -0500 skynet.local (63105)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 14:28:48 -0500 skynet.local (63105)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 14:28:48 -0500 skynet.local (63105)] INFO : Finished instrumentation
+[11/29/13 14:28:49 -0500 skynet.local (63105)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 14:29:56 -0500 skynet.local (63240)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 14:29:56 -0500 skynet.local (63240)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 14:29:56 -0500 skynet.local (63240)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 14:29:56 -0500 skynet.local (63240)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 14:29:56 -0500 skynet.local (63240)] INFO : Enabling the Request Sampler.
+[11/29/13 14:29:56 -0500 skynet.local (63240)] INFO : Enabling the Request Sampler.
+[11/29/13 14:29:56 -0500 skynet.local (63240)] ERROR : No application name configured.
+[11/29/13 14:29:56 -0500 skynet.local (63240)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 14:29:56 -0500 skynet.local (63240)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 14:29:56 -0500 skynet.local (63240)] ERROR : value set for app_name in the development 
+[11/29/13 14:29:56 -0500 skynet.local (63240)] ERROR : environment.
+[11/29/13 14:29:56 -0500 skynet.local (63240)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 14:29:56 -0500 skynet.local (63240)] INFO : Installing Net instrumentation
+[11/29/13 14:29:56 -0500 skynet.local (63240)] INFO : Installing deferred Rack instrumentation
+[11/29/13 14:29:56 -0500 skynet.local (63240)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 14:29:56 -0500 skynet.local (63240)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 14:29:56 -0500 skynet.local (63240)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 14:29:56 -0500 skynet.local (63240)] INFO : Finished instrumentation
+[11/29/13 14:29:57 -0500 skynet.local (63240)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 14:32:33 -0500 skynet.local (63317)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 14:32:33 -0500 skynet.local (63317)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 14:32:33 -0500 skynet.local (63317)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 14:32:33 -0500 skynet.local (63317)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 14:32:33 -0500 skynet.local (63317)] INFO : Enabling the Request Sampler.
+[11/29/13 14:32:33 -0500 skynet.local (63317)] INFO : Enabling the Request Sampler.
+[11/29/13 14:32:33 -0500 skynet.local (63317)] ERROR : No application name configured.
+[11/29/13 14:32:33 -0500 skynet.local (63317)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 14:32:33 -0500 skynet.local (63317)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 14:32:33 -0500 skynet.local (63317)] ERROR : value set for app_name in the development 
+[11/29/13 14:32:33 -0500 skynet.local (63317)] ERROR : environment.
+[11/29/13 14:32:33 -0500 skynet.local (63317)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 14:32:33 -0500 skynet.local (63317)] INFO : Installing Net instrumentation
+[11/29/13 14:32:33 -0500 skynet.local (63317)] INFO : Installing deferred Rack instrumentation
+[11/29/13 14:32:33 -0500 skynet.local (63317)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 14:32:33 -0500 skynet.local (63317)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 14:32:33 -0500 skynet.local (63317)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 14:32:33 -0500 skynet.local (63317)] INFO : Finished instrumentation
+[11/29/13 14:32:33 -0500 skynet.local (63317)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 14:33:23 -0500 skynet.local (63360)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 14:33:23 -0500 skynet.local (63360)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 14:33:23 -0500 skynet.local (63360)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 14:33:23 -0500 skynet.local (63360)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 14:33:23 -0500 skynet.local (63360)] INFO : Enabling the Request Sampler.
+[11/29/13 14:33:23 -0500 skynet.local (63360)] INFO : Enabling the Request Sampler.
+[11/29/13 14:33:23 -0500 skynet.local (63360)] ERROR : No application name configured.
+[11/29/13 14:33:23 -0500 skynet.local (63360)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 14:33:23 -0500 skynet.local (63360)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 14:33:23 -0500 skynet.local (63360)] ERROR : value set for app_name in the development 
+[11/29/13 14:33:23 -0500 skynet.local (63360)] ERROR : environment.
+[11/29/13 14:33:23 -0500 skynet.local (63360)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 14:33:23 -0500 skynet.local (63360)] INFO : Installing Net instrumentation
+[11/29/13 14:33:23 -0500 skynet.local (63360)] INFO : Installing deferred Rack instrumentation
+[11/29/13 14:33:23 -0500 skynet.local (63360)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 14:33:23 -0500 skynet.local (63360)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 14:33:23 -0500 skynet.local (63360)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 14:33:23 -0500 skynet.local (63360)] INFO : Finished instrumentation
+[11/29/13 14:33:24 -0500 skynet.local (63360)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 14:34:19 -0500 skynet.local (63389)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 14:34:19 -0500 skynet.local (63389)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 14:34:19 -0500 skynet.local (63389)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 14:34:19 -0500 skynet.local (63389)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 14:34:19 -0500 skynet.local (63389)] INFO : Enabling the Request Sampler.
+[11/29/13 14:34:19 -0500 skynet.local (63389)] INFO : Enabling the Request Sampler.
+[11/29/13 14:34:19 -0500 skynet.local (63389)] ERROR : No application name configured.
+[11/29/13 14:34:19 -0500 skynet.local (63389)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 14:34:19 -0500 skynet.local (63389)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 14:34:19 -0500 skynet.local (63389)] ERROR : value set for app_name in the development 
+[11/29/13 14:34:19 -0500 skynet.local (63389)] ERROR : environment.
+[11/29/13 14:34:19 -0500 skynet.local (63389)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 14:34:19 -0500 skynet.local (63389)] INFO : Installing Net instrumentation
+[11/29/13 14:34:19 -0500 skynet.local (63389)] INFO : Installing deferred Rack instrumentation
+[11/29/13 14:34:19 -0500 skynet.local (63389)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 14:34:19 -0500 skynet.local (63389)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 14:34:19 -0500 skynet.local (63389)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 14:34:19 -0500 skynet.local (63389)] INFO : Finished instrumentation
+[11/29/13 14:34:19 -0500 skynet.local (63389)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 14:35:12 -0500 skynet.local (63432)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 14:35:12 -0500 skynet.local (63432)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 14:35:12 -0500 skynet.local (63432)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 14:35:12 -0500 skynet.local (63432)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 14:35:12 -0500 skynet.local (63432)] INFO : Enabling the Request Sampler.
+[11/29/13 14:35:12 -0500 skynet.local (63432)] INFO : Enabling the Request Sampler.
+[11/29/13 14:35:12 -0500 skynet.local (63432)] ERROR : No application name configured.
+[11/29/13 14:35:12 -0500 skynet.local (63432)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 14:35:12 -0500 skynet.local (63432)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 14:35:12 -0500 skynet.local (63432)] ERROR : value set for app_name in the development 
+[11/29/13 14:35:12 -0500 skynet.local (63432)] ERROR : environment.
+[11/29/13 14:35:12 -0500 skynet.local (63432)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 14:35:12 -0500 skynet.local (63432)] INFO : Installing Net instrumentation
+[11/29/13 14:35:12 -0500 skynet.local (63432)] INFO : Installing deferred Rack instrumentation
+[11/29/13 14:35:12 -0500 skynet.local (63432)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 14:35:12 -0500 skynet.local (63432)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 14:35:12 -0500 skynet.local (63432)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 14:35:12 -0500 skynet.local (63432)] INFO : Finished instrumentation
+[11/29/13 14:35:12 -0500 skynet.local (63432)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 14:37:11 -0500 skynet.local (63484)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 14:37:11 -0500 skynet.local (63484)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 14:37:11 -0500 skynet.local (63484)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 14:37:11 -0500 skynet.local (63484)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 14:37:11 -0500 skynet.local (63484)] INFO : Enabling the Request Sampler.
+[11/29/13 14:37:11 -0500 skynet.local (63484)] INFO : Enabling the Request Sampler.
+[11/29/13 14:37:11 -0500 skynet.local (63484)] ERROR : No application name configured.
+[11/29/13 14:37:11 -0500 skynet.local (63484)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 14:37:11 -0500 skynet.local (63484)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 14:37:11 -0500 skynet.local (63484)] ERROR : value set for app_name in the development 
+[11/29/13 14:37:11 -0500 skynet.local (63484)] ERROR : environment.
+[11/29/13 14:37:11 -0500 skynet.local (63484)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 14:37:11 -0500 skynet.local (63484)] INFO : Installing Net instrumentation
+[11/29/13 14:37:11 -0500 skynet.local (63484)] INFO : Installing deferred Rack instrumentation
+[11/29/13 14:37:11 -0500 skynet.local (63484)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 14:37:11 -0500 skynet.local (63484)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 14:37:11 -0500 skynet.local (63484)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 14:37:11 -0500 skynet.local (63484)] INFO : Finished instrumentation
+[11/29/13 14:37:11 -0500 skynet.local (63484)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 14:50:58 -0500 skynet.local (63892)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 14:50:58 -0500 skynet.local (63892)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 14:50:58 -0500 skynet.local (63892)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 14:50:58 -0500 skynet.local (63892)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 14:50:58 -0500 skynet.local (63892)] INFO : Enabling the Request Sampler.
+[11/29/13 14:50:58 -0500 skynet.local (63892)] INFO : Enabling the Request Sampler.
+[11/29/13 14:50:58 -0500 skynet.local (63892)] ERROR : No application name configured.
+[11/29/13 14:50:58 -0500 skynet.local (63892)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 14:50:58 -0500 skynet.local (63892)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 14:50:58 -0500 skynet.local (63892)] ERROR : value set for app_name in the development 
+[11/29/13 14:50:58 -0500 skynet.local (63892)] ERROR : environment.
+[11/29/13 14:50:58 -0500 skynet.local (63892)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 14:50:58 -0500 skynet.local (63892)] INFO : Installing Net instrumentation
+[11/29/13 14:50:58 -0500 skynet.local (63892)] INFO : Installing deferred Rack instrumentation
+[11/29/13 14:50:58 -0500 skynet.local (63892)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 14:50:59 -0500 skynet.local (63892)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 14:50:59 -0500 skynet.local (63892)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 14:50:59 -0500 skynet.local (63892)] INFO : Finished instrumentation
+[11/29/13 14:50:59 -0500 skynet.local (63892)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 15:16:35 -0500 skynet.local (64545)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 15:16:35 -0500 skynet.local (64545)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 15:16:35 -0500 skynet.local (64545)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 15:16:35 -0500 skynet.local (64545)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 15:16:35 -0500 skynet.local (64545)] INFO : Enabling the Request Sampler.
+[11/29/13 15:16:35 -0500 skynet.local (64545)] INFO : Enabling the Request Sampler.
+[11/29/13 15:16:35 -0500 skynet.local (64545)] ERROR : No application name configured.
+[11/29/13 15:16:35 -0500 skynet.local (64545)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 15:16:35 -0500 skynet.local (64545)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 15:16:35 -0500 skynet.local (64545)] ERROR : value set for app_name in the development 
+[11/29/13 15:16:35 -0500 skynet.local (64545)] ERROR : environment.
+[11/29/13 15:16:35 -0500 skynet.local (64545)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 15:16:35 -0500 skynet.local (64545)] INFO : Installing Net instrumentation
+[11/29/13 15:16:35 -0500 skynet.local (64545)] INFO : Installing deferred Rack instrumentation
+[11/29/13 15:16:35 -0500 skynet.local (64545)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 15:16:35 -0500 skynet.local (64545)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 15:16:35 -0500 skynet.local (64545)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 15:16:35 -0500 skynet.local (64545)] INFO : Finished instrumentation
+[11/29/13 15:16:35 -0500 skynet.local (64545)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 15:17:58 -0500 skynet.local (64599)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 15:17:58 -0500 skynet.local (64599)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 15:17:58 -0500 skynet.local (64599)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 15:17:58 -0500 skynet.local (64599)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 15:17:58 -0500 skynet.local (64599)] INFO : Enabling the Request Sampler.
+[11/29/13 15:17:58 -0500 skynet.local (64599)] INFO : Enabling the Request Sampler.
+[11/29/13 15:17:58 -0500 skynet.local (64599)] ERROR : No application name configured.
+[11/29/13 15:17:58 -0500 skynet.local (64599)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 15:17:58 -0500 skynet.local (64599)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 15:17:58 -0500 skynet.local (64599)] ERROR : value set for app_name in the development 
+[11/29/13 15:17:58 -0500 skynet.local (64599)] ERROR : environment.
+[11/29/13 15:17:58 -0500 skynet.local (64599)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 15:17:58 -0500 skynet.local (64599)] INFO : Installing Net instrumentation
+[11/29/13 15:17:58 -0500 skynet.local (64599)] INFO : Installing deferred Rack instrumentation
+[11/29/13 15:17:58 -0500 skynet.local (64599)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 15:17:58 -0500 skynet.local (64599)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 15:17:58 -0500 skynet.local (64599)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 15:17:58 -0500 skynet.local (64599)] INFO : Finished instrumentation
+[11/29/13 15:17:59 -0500 skynet.local (64599)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 15:22:29 -0500 skynet.local (64703)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 15:22:29 -0500 skynet.local (64703)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 15:22:29 -0500 skynet.local (64703)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 15:22:29 -0500 skynet.local (64703)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 15:22:29 -0500 skynet.local (64703)] INFO : Enabling the Request Sampler.
+[11/29/13 15:22:29 -0500 skynet.local (64703)] INFO : Enabling the Request Sampler.
+[11/29/13 15:22:29 -0500 skynet.local (64703)] ERROR : No application name configured.
+[11/29/13 15:22:29 -0500 skynet.local (64703)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 15:22:29 -0500 skynet.local (64703)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 15:22:29 -0500 skynet.local (64703)] ERROR : value set for app_name in the development 
+[11/29/13 15:22:29 -0500 skynet.local (64703)] ERROR : environment.
+[11/29/13 15:22:29 -0500 skynet.local (64703)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 15:22:29 -0500 skynet.local (64703)] INFO : Installing Net instrumentation
+[11/29/13 15:22:29 -0500 skynet.local (64703)] INFO : Installing deferred Rack instrumentation
+[11/29/13 15:22:29 -0500 skynet.local (64703)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 15:22:29 -0500 skynet.local (64703)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 15:22:29 -0500 skynet.local (64703)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 15:22:29 -0500 skynet.local (64703)] INFO : Finished instrumentation
+[11/29/13 15:22:29 -0500 skynet.local (64703)] INFO : Doing deferred dependency-detection before Rack startup
+[11/29/13 15:23:22 -0500 skynet.local (64732)] INFO : Starting the New Relic agent in "development" environment.
+[11/29/13 15:23:22 -0500 skynet.local (64732)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/29/13 15:23:22 -0500 skynet.local (64732)] INFO : Reading configuration from config/newrelic.yml
+[11/29/13 15:23:22 -0500 skynet.local (64732)] INFO : New Relic Agent Developer Mode enabled.
+[11/29/13 15:23:22 -0500 skynet.local (64732)] INFO : Enabling the Request Sampler.
+[11/29/13 15:23:22 -0500 skynet.local (64732)] INFO : Enabling the Request Sampler.
+[11/29/13 15:23:22 -0500 skynet.local (64732)] ERROR : No application name configured.
+[11/29/13 15:23:22 -0500 skynet.local (64732)] ERROR : The Agent cannot start without at least one. Please check your 
+[11/29/13 15:23:22 -0500 skynet.local (64732)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[11/29/13 15:23:22 -0500 skynet.local (64732)] ERROR : value set for app_name in the development 
+[11/29/13 15:23:22 -0500 skynet.local (64732)] ERROR : environment.
+[11/29/13 15:23:22 -0500 skynet.local (64732)] INFO : Installing ActiveRecord 4 instrumentation
+[11/29/13 15:23:22 -0500 skynet.local (64732)] INFO : Installing Net instrumentation
+[11/29/13 15:23:22 -0500 skynet.local (64732)] INFO : Installing deferred Rack instrumentation
+[11/29/13 15:23:22 -0500 skynet.local (64732)] INFO : Installing Rails 4 Controller instrumentation
+[11/29/13 15:23:22 -0500 skynet.local (64732)] INFO : Installing Rails 4 view instrumentation
+[11/29/13 15:23:22 -0500 skynet.local (64732)] INFO : Installing Rails4 Error instrumentation
+[11/29/13 15:23:22 -0500 skynet.local (64732)] INFO : Finished instrumentation
+[11/29/13 15:23:22 -0500 skynet.local (64732)] INFO : Doing deferred dependency-detection before Rack startup

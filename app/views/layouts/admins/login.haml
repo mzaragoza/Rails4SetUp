@@ -1,0 +1,20 @@
+!!!
+/[if lt IE 7] <html class="lt-ie9 lt-ie8 lt-ie7" lang="en">
+/[if IE 7] <html class="lt-ie9 lt-ie8" lang="en">
+/[if IE 8] <html class="lt-ie9" lang="en">
+/ [if gt IE 8]><!
+%html{lang: "en"}
+  / <![endif]
+  %head
+    %meta{charset: "utf-8"}/
+    / Viewport Metatag
+    %meta{content: "width=device-width,initial-scale=1.0", name: "viewport"}/
+    / Required Stylesheets
+    = stylesheet_link_tag "admins/login", media: "all", "data-turbolinks-track" => true
+    %title MWS Admin - Login Page
+    = csrf_meta_tags
+  %body
+    #mws-login-wrapper
+      = yield
+    / JavaScript Plugins
+    = javascript_include_tag "admins/login", "data-turbolinks-track" => true
